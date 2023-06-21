@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1573460448 source:c:\users\filip\desktop\eng. comp\computação gráfica\labirinto3d-v2\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1522180254 c:\program files (x86)\codeblocks\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
